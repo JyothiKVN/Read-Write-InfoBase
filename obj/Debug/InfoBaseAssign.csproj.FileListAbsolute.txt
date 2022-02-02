@@ -1,0 +1,16 @@
+D:\source\repos\InfoBaseAssign\bin\Debug\InfoBaseAssign.exe.config
+D:\source\repos\InfoBaseAssign\bin\Debug\InfoBaseAssign.exe
+D:\source\repos\InfoBaseAssign\bin\Debug\InfoBaseAssign.pdb
+D:\source\repos\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.AssemblyReference.cache
+D:\source\repos\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.SuggestedBindingRedirects.cache
+D:\source\repos\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.CoreCompileInputs.cache
+D:\source\repos\InfoBaseAssign\obj\Debug\InfoBaseAssign.exe
+D:\source\repos\InfoBaseAssign\obj\Debug\InfoBaseAssign.pdb
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\obj\Debug\InfoBaseAssign.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\bin\Debug\InfoBaseAssign.exe.config
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\bin\Debug\InfoBaseAssign.exe
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\bin\Debug\InfoBaseAssign.pdb
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\obj\Debug\InfoBaseAssign.exe
+C:\Users\dell\Downloads\InfoBaseAssignment-main\InfoBaseAssign\obj\Debug\InfoBaseAssign.pdb
